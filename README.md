@@ -29,7 +29,7 @@ Once everything is ready, it is as easy as copy-pasting the following commands t
 setup script.
 
 ```
-git clone --recursive https://github.com/andresgongora/synth-shell.git
+git clone --recursive https://github.com/amirtaherkhani/synth-shell.git
 cd synth-shell
 ./setup.sh
 ```
