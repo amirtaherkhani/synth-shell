@@ -135,7 +135,7 @@ choose to install synth-shell for your user only (recommended) or system-wide
 [open and play this link in a separate tab](https://www.youtube.com/embed/MpN91wHAr1k)
 and enter the following into your terminal:
 ```
-git clone --recursive https://github.com/andresgongora/synth-shell.git
+git clone --recursive https://github.com/amirtaherkhani/synth-shell.git
 chmod +x synth-shell/setup.sh
 cd synth-shell
 ./setup.sh
